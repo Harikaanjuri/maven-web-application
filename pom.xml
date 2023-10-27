@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	      <name>Marolix Releases Nexus Repository</name>
+	      <url>http://18.142.53.112:8081/harika/repository/marolix-Release-repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <name>Marolix Snapshot Nexus Repository </name>
+	      <url>http://18.142.53.112:8081/harika/repository/marolix-Snapshot-repo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
