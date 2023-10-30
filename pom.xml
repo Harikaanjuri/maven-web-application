@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Marolix Releases Nexus Repository</name>
-	      <url>http://18.142.53.112:8081/harika/repository/marolix-Release-repo/</url>
+	      <url>http://13.250.105.215:8081/harika/repository/marolix-Release-repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Marolix Snapshot Nexus Repository </name>
-	      <url>http://18.142.53.112:8081/harika/repository/marolix-Snapshot-repo/</url>
+	      <url>http://13.250.105.215:8081/harika/repository/marolix-Snapshot-repo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
